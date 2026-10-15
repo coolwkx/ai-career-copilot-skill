@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.env.*
+.private/
+private/
+profiles/
+*.docx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.zip
+.DS_Store
+Thumbs.db

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "updated_at": null,
+  "preferred_language": "zh-CN",
+  "education": [],
+  "experience": [],
+  "projects": [],
+  "skills_with_project_evidence": [],
+  "self_reported_skills": [],
+  "uncertain_claims": [],
+  "goals": [],
+  "resume_preferences": {
+    "section_order": [],
+    "target_pages": null,
+    "include_photo": null,
+    "include_job_objective": null
+  },
+  "private_source_paths": []
+}
